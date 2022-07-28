@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "631437571604",
+    "project_id": "expectation-7bd69",
+    "storage_bucket": "expectation-7bd69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631437571604:android:3044b5aeb6e9694fa19901",
+        "android_client_info": {
+          "package_name": "com.tm.expectations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631437571604-r0ucmtenia87eoppb5099vrh05b412ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhiL6pdiayN8G8Z7Z9RflZV9E-fF72qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631437571604-r0ucmtenia87eoppb5099vrh05b412ko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631437571604-ebgaksclhs4vav4ci474gfk18achim4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tm.expectations"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
